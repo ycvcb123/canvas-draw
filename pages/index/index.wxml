@@ -1,0 +1,1 @@
+<mod-share startTime="{{timeInfo}}" fromLocation="{{on_stop.name}}" toLocation="{{off_stop.name}}"></mod-share>
