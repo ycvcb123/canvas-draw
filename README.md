@@ -24,5 +24,3 @@ drawImageAndText: function(path) {
 }
 ```
 
-
-<image src="https://user-gold-cdn.xitu.io/2018/11/29/1675e6cbfd2a8b37?w=644&h=486&f=png&s=286870"></image>
